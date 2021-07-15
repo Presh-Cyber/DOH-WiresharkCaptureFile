@@ -1,0 +1,38 @@
+HACKERS VIEW PCAP FILE
+
+what port is telnet running on? = 23
+what product is thesource computer = Dell_37  (7 characters)
+what is the source IP =  10.100.18.5
+what is the Target IP =  10.100.16.1
+what is the Target Username = aaddmmiinn
+what is the Target Password = barrymn.anilow
+what is the wireshark filter for the tcp stream? = tcp.stream eq 0
+
+
+SUCCESSFUL WEP AUTHENTICATION
+
+what is the SSID of the network ? = DENVEROFFICE
+what is the Mac Address of the network = 00:11:88:6b:68:30
+was the authentication successful? = yes
+what is the Maximum Transmit Power Level: 27dBm
+
+
+PORTSCAN 
+
+what type of attack was carried out here = port scan
+what is the source IP = 10.100.25.14
+what is the Destination IP = 10.100.18.12
+what port was scanned on the 4th packet = 80
+what protocol runs on the above stated port = HTTP
+what port was scanned on the 8th packet = 21
+what protocol runs on the above stated port = FTP
+
+FTP CRACK
+
+1. what kind of attack is carried out here? = Bruteforce attack
+2. what port is being targeted? = 21
+3. what kind of service runs on that port? = FTP
+4. was the hacker sucessful? = No
+
+
+
